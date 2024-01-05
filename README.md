@@ -10,7 +10,7 @@ Hydrase/
 ├── still-standing-aras         # Design tokens for Still Standing
 ├── still-standing-angular      # Angular Still Standing Components
 ├── still-standing-react        # React Still Standing Components
-├── still-standing-icons        # Still Standing Icons
+└── still-standing-icons        # Still Standing Icons
 ```
 
 ## State of packages
