@@ -26,4 +26,4 @@ Hydrase/
 
 ## Licence
 
-The Hydrase [Still Standing License](https://github.com/HydraseCore/Still-Standing/blob/main/LICENSE.md) allows free use of the software but prohibits creating similar applications to Hydrase's. When using the Still Standing design system, attribution to "Still Standing, a design system by Hydrase" is required. No warranties are provided, and the authors bear no liability.
+The Hydrase [Still Standing License](https://github.com/HydraseCore/Still-Standing/blob/main/LICENSE.md) allows free use of the software. When using the Still Standing design system, attribution to "Still Standing, a design system by Hydrase" is required. No warranties are provided, and the authors bear no liability.
