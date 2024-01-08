@@ -1,6 +1,6 @@
 <div align="center">
     <img
-      src="https://github.com/HydraseCore/Still-Standing/blob/main/documentation/Still-Standing-Banner.jpg"
+      src="https://github.com/HydraseCore/Still-Standing/blob/main/documentation/Still-Standing-Banner.png"
       alt=""
     />
 </div>
