@@ -1,7 +1,6 @@
 {
   "name": "still-standing",
   "version": "0.0.0",
-  "description": "",
   "private": true,
   "main": "index.js",
   "scripts": {

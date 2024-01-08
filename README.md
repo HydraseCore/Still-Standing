@@ -8,6 +8,7 @@
 ```sh
 Hydrase/
 ├── still-standing-aras         # Design tokens for Still Standing
+├── still-standing-kit          # Still Standing Design Kit
 ├── still-standing-angular      # Angular Still Standing Components
 ├── still-standing-react        # React Still Standing Components
 └── still-standing-icons        # Still Standing Icons
@@ -18,6 +19,7 @@ Hydrase/
 | Package                                           | Status                               |
 | ------------------------------------------------- | ------------------------------------ |
 | still-standing-aras                               | `In Progress`                        |
+| still-standing-kit                                | `Not Started`                        |
 | still-standing-angular                            | `Not Started`                        |
 | still-standing-react                              | `Not Started`                        |
 | still-standing-icons                              | `Not Started`                        |
