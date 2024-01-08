@@ -9,7 +9,7 @@
 
 > Craft. Innovate. Transform. Shape the User Experience of your project with Hydrase's Still Standing Design System.
 
-## Need a guide through?
+## Do you need a guide through?
 ### This might help
 
 ```sh
@@ -32,6 +32,7 @@ Hydrase/
 | still-standing-icons                              | `Not Started`                        |
 
 ## Contributions are currently not accepted!
+However, if you really want to help or send a suggestion send an email to: [svetlinpavlov@yahoo.com](mailto:svetlinpavlov@yahoo.com?subject="Suggestion for the Still Standing Design System")
 
 ## Licence
 
