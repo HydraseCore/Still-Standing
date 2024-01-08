@@ -32,7 +32,7 @@ Hydrase/
 | still-standing-icons                              | `Not Started`                        |
 
 ## Contributions are currently not accepted!
-However, if you really want to help or suggest an improvement [Send an email to Svetlin Pavlov](mailto:svetlinpavlov@yahoo.com?subject=Suggestion%20for%20the%20Still%20Standing%20Design%20System)
+However, if you really want to help or suggest something [Send an email to Svetlin Pavlov](mailto:svetlinpavlov@yahoo.com?subject=Suggestion%20for%20the%20Still%20Standing%20Design%20System)
 
 ## Licence
 
