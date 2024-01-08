@@ -6,7 +6,6 @@
 </div>
 
 # Hydrase
-## Early Stage
 
 > Craft. Innovate. Transform. Shape the User Experience of your project with Hydrase's Still Standing Design System.
 
