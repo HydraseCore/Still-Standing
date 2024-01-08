@@ -1,3 +1,10 @@
+<div align="center">
+    <img
+      src="https://github.com/HydraseCore/Still-Standing/blob/main/documentation/Still-Standing-Banner.jpg"
+      alt=""
+    />
+</div>
+
 # Hydrase
 
 > Craft. Innovate. Transform. Shape the User Experience of your project with Hydrase's Still Standing Design System.
